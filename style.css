@@ -2,3 +2,8 @@
     background-color: aquamarine;
     padding: 20px;
 }
+.content{
+    background-color: chartreuse;
+    height: 200px;
+    padding: 5px;
+}
